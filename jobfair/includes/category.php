@@ -1,0 +1,9 @@
+<option value="0">Choose..</option>
+<option value="Cyber Security">Cyber Security</option>
+<option value="Graphics Design">Graphics Design</option>
+<option value="IT Support">IT Support</option>
+<option value="Video Editing">Video Editing</option>
+<option value="Software Development">Software Development</option>
+<option value="UI/UX Design">UI/UX Design</option>
+<option value="Web Design">Web Design</option>
+<option value="Web Development">Web Development</option>
